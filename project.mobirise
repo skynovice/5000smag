@@ -47,7 +47,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "EN_Home",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
