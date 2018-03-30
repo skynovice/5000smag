@@ -28,7 +28,7 @@ body {
   font-size: 4rem;
 }
 .display-4 {
-  font-family: 'supermarket';
+  font-family: 'PrumoDisplay-ExtraLight';
   font-size: 1.5rem;
 }
 .display-4 > .mbr-iconfont {
@@ -1671,8 +1671,6 @@ body {
   color: #879a9f !important;
 }
 .cid-qNLzNnVU7j {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -1700,7 +1698,7 @@ body {
   text-align: center;
 }
 .cid-qNLHDVLl8t {
-  padding-top: 15px;
+  padding-top: 120px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/phu-chi-fa-forest-park-at-sunset-thailand-p5gvg46-2000x1335.jpg");
 }
@@ -1731,15 +1729,15 @@ body {
   height: 100%;
 }
 .cid-qNLZwaHngD {
-  padding-top: 15px;
+  padding-top: 120px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/buddha-statue-plgle2y-2000x1333.jpg");
 }
 .cid-qNLZwaHngD H2 {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qNLZwaHngD .mbr-section-subtitle {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qNM4G6bDIF {
   padding-top: 15px;
