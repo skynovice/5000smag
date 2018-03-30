@@ -1,8 +1,8 @@
 @font-face {
-   font-family: 'supermarket';
-   src: url('supermarket/font.ttf');
-}
-@font-face {
    font-family: 'PrumoDisplay-ExtraLight';
    src: url('PrumoDisplay-ExtraLight/font.otf');
+}
+@font-face {
+   font-family: 'supermarket';
+   src: url('supermarket/font.ttf');
 }
