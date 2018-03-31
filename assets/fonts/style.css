@@ -6,3 +6,7 @@
    font-family: 'supermarket';
    src: url('supermarket/font.ttf');
 }
+@font-face {
+   font-family: 'THSarabunNew';
+   src: url('THSarabunNew/font.ttf');
+}
